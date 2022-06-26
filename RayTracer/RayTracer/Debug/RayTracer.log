@@ -1,0 +1,67 @@
+﻿  RayTracer.cpp
+D:\RayTracing\RayTracing\RayTracer\RayTracer\RayTracer.cpp(71,42): warning C4305: “参数”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ]
+D:\RayTracing\RayTracing\RayTracer\RayTracer\RayTracer.cpp(102,35): warning C4305: “参数”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ]
+D:\RayTracing\RayTracing\RayTracer\RayTracer\RayTracer.cpp(144,24): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\RayTracing\RayTracing\RayTracer\RayTracer\RayTracer.cpp(144,20): warning C4244: “初始化”: 从“double”转换到“const float”，可能丢失数据
+D:\RayTracing\RayTracing\RayTracer\RayTracer\RayTracer.cpp(156,21): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\RayTracing\RayTracing\RayTracer\RayTracer\RayTracer.cpp(157,21): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\RayTracing\RayTracing\RayTracer\RayTracer\RayTracer.cpp(179,54): warning C4305: “参数”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ]
+D:\RayTracing\RayTracing\RayTracer\RayTracer\RayTracer.cpp(179,76): warning C4305: “参数”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ]
+D:\RayTracing\RayTracing\RayTracer\RayTracer\RayTracer.cpp(180,54): warning C4305: “参数”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ]
+D:\RayTracing\RayTracing\RayTracer\RayTracer\RayTracer.cpp(180,76): warning C4305: “参数”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ]
+D:\RayTracing\RayTracing\RayTracer\RayTracer\RayTracer.cpp(181,54): warning C4305: “参数”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ]
+D:\RayTracing\RayTracing\RayTracer\RayTracer\RayTracer.cpp(181,76): warning C4305: “参数”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ]
+D:\RayTracing\RayTracing\RayTracer\RayTracer\RayTracer.cpp(182,55): warning C4305: “参数”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ]
+D:\RayTracing\RayTracing\RayTracer\RayTracer\RayTracer.cpp(192,51): warning C4305: “参数”: 从“double”到“const float”截断
+D:\RayTracing\RayTracing\RayTracer\RayTracer\RayTracer.cpp(193,50): warning C4305: “参数”: 从“double”到“const float”截断
+D:\RayTracing\RayTracing\RayTracer\RayTracer\geometry.h(66,47): warning C4244: “=”: 从“U”转换到“T”，可能丢失数据
+          with
+          [
+              U=double
+          ]
+          and
+          [
+              T=float
+          ]
+D:\RayTracing\RayTracing\RayTracer\RayTracer\RayTracer.cpp(72): message : 查看对正在编译的函数 模板 实例化“vec<3,float> operator *<3,float,double>(const vec<3,float> &,const U &)”的引用
+          with
+          [
+              U=double
+          ]
+  RayTracer.vcxproj -> D:\RayTracing\RayTracing\RayTracer\Debug\RayTracer.exe
